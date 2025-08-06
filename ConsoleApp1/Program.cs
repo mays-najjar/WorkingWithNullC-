@@ -6,7 +6,7 @@ Console.WriteLine("Nullabe lesson!");
 
 // Nullable types can be used with value types and reference types.
 // 1. Nullable Value Type ?
-// Value types are not nullable by default, so we can use Nullable<T> or the shorthand T? to make them nullable.
+// Value types are not nullable by default, so we can use Nullable<T> or the shorthand T? to make them nullable.؟؟
 int? i = null;
 bool? found ;
 if (i.HasValue)
